@@ -1,2 +1,2 @@
-# redictive-Analysis-for-Targeted-Term-Deposit-Sales
+# Predictive-Analysis-for-Targeted-Term-Deposit-Sales
 redictive Analysis for Targeted Term Deposit Sales
